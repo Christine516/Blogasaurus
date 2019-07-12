@@ -11,6 +11,21 @@ p{
   margin: 45px;
 }
 
+.date{
+  border-style: solid;
+  border-color: #D1DCEB;
+  padding: 3px;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.rim{
+  background-color:#B8D7DE;
+  padding: 20px;
+  /* border-style: dotted;
+  border: 10px;
+  border-color: #D1DCEB; */
+}
 #one{
 
 }
